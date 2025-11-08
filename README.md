@@ -170,4 +170,3 @@ Maintain copy-safe, split-file structure
 SpawnLogic — © 2025 CHAWITZ Development. All Rights Reserved.
 Lead author: CHAWITZ (Chawit Chandabimba)
 
-To define your final license (MIT / Apache-2.0 / Proprietary), include a LICENSE file in the repo root and update this section.
